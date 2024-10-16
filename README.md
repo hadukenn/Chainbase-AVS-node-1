@@ -27,8 +27,8 @@ Refferal code : LMEP20NNC
 
 ---
 
-Join our Telegram [`@cryptoconsol`](https://t.me/cryptoconsol)
-Follow twitter : https://x.com/cryptoconsol
+
+Follow twitter : https://x.com/xmandirigma
 ---
 
 Youtube guide : https://www.youtube.com/watch?v=k6j7UMvTYq4
