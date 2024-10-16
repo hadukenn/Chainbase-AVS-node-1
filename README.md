@@ -9,9 +9,9 @@ website : https://chainbase.com/
 
 Connect your wallet to get genisis zircon points
 
-testnet : https://genesis.chainbase.com/referral?referral_code=6T1FR6863
+testnet : https://genesis.chainbase.com/referral?referral_code=LMEP20NNC
 
-Refferal code : 6T1FR6863
+Refferal code : LMEP20NNC
 
 ---
 
